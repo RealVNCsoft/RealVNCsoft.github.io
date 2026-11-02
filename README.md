@@ -2,6 +2,6 @@
 
 Source for [realvncsoft.github.io](https://realvncsoft.github.io/).
 
-The page describes RealVNC Viewer 8.5.3 and RealVNC Server 2.4.1 and links to the ZIP and checksums published in [GitHub Releases](https://github.com/RealVNCsoft/realvnc-download/releases).
+The page describes RealVNC Viewer 8.5.3 and RealVNC Server 2.4.1 and links to the ZIP package published in [GitHub Releases](https://github.com/RealVNCsoft/realvnc-download/releases).
 
 RealVNC and VNC are trademarks of RealVNC Ltd.
